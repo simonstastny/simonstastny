@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @simonstastny
+- 👀 I’m interested in Java, Kotlin, Vue.js among other things :)
+- 📫 You can reach me via LinkedIn: https://www.linkedin.com/in/simonstastny/
